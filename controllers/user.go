@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/erainey/getting-started-with-go-pluralsight/models"
+	"github.com/erainey/go_getting_started/models"
 )
 
 type userController struct {
